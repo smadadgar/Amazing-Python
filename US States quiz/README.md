@@ -1,6 +1,12 @@
-**This is a quiz! Your score goes up as you name more States.**
+**This is a quiz! Your score increases as you correctly name more states.**
 
-**Once you write a valid State name, that State is labeld on the map.**
+**Each time you enter a valid state name, that state is labeled on the map.**
+
+**Play the video below to watch the game!**
 
 
-![Screenshot 2024-09-05 203432](https://github.com/user-attachments/assets/5f8ec832-71f4-4e59-8ef6-df4441ea34a3)
+
+
+
+https://github.com/user-attachments/assets/63bcdf69-d65b-4dfd-b957-f1c29746d8c7
+
