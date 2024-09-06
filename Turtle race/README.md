@@ -1,7 +1,14 @@
 **This code executes a turtle race.**
 
-**Play the the following video to watch a race!**
+**It starts by asking the user to guess which turtle will win the race.**
+
+**Then the race starts, and the winner is announced.**
+
+**Play the video below to watch the race.**
 
 
 
-https://github.com/user-attachments/assets/c3412b9b-6312-497f-a011-f8b5366a9203
+
+https://github.com/user-attachments/assets/77f9e3b0-4bb1-405a-a612-b015716f4aae
+
+
