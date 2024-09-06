@@ -1,5 +1,5 @@
-This is a quiz! Your score goes up as you name more States.
-Once you write a valid State name, that State is labeld on the map.
+**This is a quiz! Your score goes up as you name more States.
+Once you write a valid State name, that State is labeld on the map.**
 
 
-![Screenshot 2024-09-05 193048](https://github.com/user-attachments/assets/0a2c17ce-fea0-47ef-a604-e8d3093302be)
+![Screenshot 2024-09-05 203432](https://github.com/user-attachments/assets/5f8ec832-71f4-4e59-8ef6-df4441ea34a3)
