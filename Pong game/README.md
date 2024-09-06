@@ -1,6 +1,6 @@
 **This game is for two players. The right paddle is controlled using the Up and Down arrows, while the left paddle is controlled with the "W" and "S" keys.**
 
-**A point is awarded each time a player successfully returns the ball, preventing it from hitting the wall.**
+**A point is awarded each time a player successfully returns the ball, preventing it from hitting the wall. Conversely, if a player fails to return the ball, the opponent gains a point.**
 
 **Play the video below to watch the game!**
 
