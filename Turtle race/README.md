@@ -1,6 +1,6 @@
 **This code executes a turtle race.**
 
-**It starts by asking the user to guess which turtle will win the race.**
+**It starts by asking the player to guess which turtle will win the race.**
 
 **Then the race starts, and the winner is announced.**
 
