@@ -1,7 +1,7 @@
 
-**In this game, the user tries to get a turtle cross a street with cars moving at different speeds.**
+**In this game, the user tries to get a turtle cross a street.**
 
-**The user scores each time the trutle crosses the street successfully.**
+**Each time the turtle crosses the street successfully, the score increases by one.**
 
 **If the turtle is hit by any cars, the game will be over.**
 
