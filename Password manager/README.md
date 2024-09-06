@@ -1,4 +1,4 @@
-**This project generates a strong random password for a provided username and stores all the info in a separate file.**
+**This project creates a random password for a given username and saves all the information in a JSON file.**
 
 **Play the vide below to see how it works!**
 
