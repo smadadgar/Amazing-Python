@@ -1,5 +1,5 @@
 
-**In this game, the user tries to get a turtle cross a street.**
+**In this game, the player tries to get a turtle cross a street.**
 
 **Each time the turtle crosses the street successfully, the score increases by one.**
 
