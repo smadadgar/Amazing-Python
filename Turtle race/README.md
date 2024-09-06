@@ -1,8 +1,3 @@
 **This code executes a turtle race.**
 
-
-
-https://github.com/user-attachments/assets/c7b371f3-a33e-4dee-b5b8-b30170e4350c
-
-
-
+https://github.com/user-attachments/assets/8dd4f911-1c78-4e1f-b73a-0aea626d6aec
